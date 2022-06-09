@@ -1,4 +1,4 @@
-package com.sawkyawhtin.adminappmone;
+package com.wizard.artharphayadmin;
 
 public class MovieModel {
 

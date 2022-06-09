@@ -1,41 +1,41 @@
 {
   "project_info": {
-    "project_number": "910630270167",
-    "project_id": "moneone-d6233",
-    "storage_bucket": "moneone-d6233.appspot.com"
+    "project_number": "367907605983",
+    "project_id": "artharphay",
+    "storage_bucket": "artharphay.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:910630270167:android:2ba95ead7b08d4284e2c92",
+        "mobilesdk_app_id": "1:367907605983:android:d7f8220dfd09bfb662c86a",
         "android_client_info": {
-          "package_name": "com.sawkyawhtin.adminappmone"
+          "package_name": "com.wizard.artharphayadmin"
         }
       },
       "oauth_client": [
         {
-          "client_id": "910630270167-3jg71ae2m9ktea31k5opa499khfirudd.apps.googleusercontent.com",
+          "client_id": "367907605983-eg0r630jrev33ms4ofd5u47p1k9u7080.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.sawkyawhtin.adminappmone",
+            "package_name": "com.wizard.artharphayadmin",
             "certificate_hash": "c9b8668743916bca1e81e41d9104e5c5a4006bdc"
           }
         },
         {
-          "client_id": "910630270167-tfn24rm9m8p8f3dj65o8qcftfihq8ni7.apps.googleusercontent.com",
+          "client_id": "367907605983-nibikjqoti1s6em5qv740mgkf3gm5r3u.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBsLAtBevOMsNDFIV5RA2LiovNBZamgGuE"
+          "current_key": "AIzaSyAR1JFrbtK5D0UaOWY6QRbiAwlXAtcYkR8"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "910630270167-tfn24rm9m8p8f3dj65o8qcftfihq8ni7.apps.googleusercontent.com",
+              "client_id": "367907605983-nibikjqoti1s6em5qv740mgkf3gm5r3u.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

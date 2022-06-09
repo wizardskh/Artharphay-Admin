@@ -1,4 +1,4 @@
-package com.sawkyawhtin.adminappmone;
+package com.wizard.artharphayadmin;
 
 
 import android.content.Context;
@@ -31,7 +31,7 @@ import com.google.firebase.firestore.QuerySnapshot;
 
 import java.util.ArrayList;
 
-import static com.sawkyawhtin.adminappmone.MainActivity.settingModel;
+import static com.wizard.artharphayadmin.MainActivity.settingModel;
 
 
 /**

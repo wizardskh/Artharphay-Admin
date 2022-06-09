@@ -1,4 +1,4 @@
-package com.sawkyawhtin.adminappmone;
+package com.wizard.artharphayadmin;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.sawkyawhtin.adminappmone;
+package com.wizard.artharphayadmin;
 
 import android.app.AlertDialog;
 import android.content.Context;

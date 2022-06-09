@@ -1,4 +1,4 @@
-package com.sawkyawhtin.adminappmone;
+package com.wizard.artharphayadmin;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;

@@ -1,4 +1,4 @@
-package com.sawkyawhtin.adminappmone;
+package com.wizard.artharphayadmin;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
